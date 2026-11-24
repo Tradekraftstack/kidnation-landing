@@ -23,3 +23,6 @@ Semantic navigation, visible keyboard focus, readable contrast, responsive layou
 
 ## Approved Task Direction
 Damon approved the floating-world opening on November 24, 2026: purple imagination world, oversized KidNation lettering, floating books, headphones, stars, existing characters, pointer depth, lighter mobile motion, and the original page below.
+
+## Corrected Opening Reference
+Damon clarified that the desired reel segment is the red Dama.io screen with oversized objects moving diagonally across the viewport. The prior bobbing-icon layout was rejected. Use actual solid 3D toys crossing the full scene, with large brand lettering behind, rather than fixed-position icons or a centered text hero.
